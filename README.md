@@ -1,5 +1,10 @@
 # 拆穿 · Deconstruct Anything
 
+
+[![Stars](https://img.shields.io/github/stars/Leowu9839/=social)](https://github.com/Leowu9839/deconstruct-skill/stargazers)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+> 🏠 这是 [Leo's AI Skill Workshop](https://github.com/Leowu9839/leos-workshop) 的 6 大 Skill 之一，点击查看完整项目集。
 > 把任何 AI Skill 掰开揉碎——消除黑箱，按需学习，安全审计，融合进化。
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
@@ -11,7 +16,7 @@
 
 ```bash
 # 克隆到 Codex skills 目录
-git clone https://gitee.com/你的用户名/deconstruct-skill.git
+git clone https://github.com/Leowu9839/deconstruct-skill.git
 cp -r deconstruct-skill/SKILL.md ~/.codex/skills/deconstruct-skill/
 
 # 或者直接复制 SKILL.md 到任一兼容平台的 skills 目录
@@ -105,3 +110,18 @@ MIT License · 欢迎使用、修改、分发。
 ---
 
 *Made with ❤️ for the AI Skill ecosystem.*
+
+---
+
+## 🔗 相关项目
+
+这是 [Leo's AI Skill Workshop](https://github.com/Leowu9839/leos-workshop) 的一部分，更多 Skill：
+
+| Skill | 场景 |
+|:---|:---|
+| 🏛️ [制度顾问](https://github.com/Leowu9839/policy-counsel) | 企业合规 / 政策分析 |
+| 🐕 [数据宝藏猎犬](https://github.com/Leowu9839/data-treasure-hound) | 数据调研 / 信息挖掘 |
+| ⚙️ [工程化 Agent](https://github.com/Leowu9839/engineering-agent) | 开发提效 / 自动化 |
+| 💎 [富人生活顾问](https://github.com/Leowu9839/luxury-experience-designer) | 生活方式 / 品质提升 |
+| ✈️ [LXTI 旅行人格](https://github.com/Leowu9839/lxti-travel-personality) | 旅行规划 / 人格测试 |
+| 🔍 [拆穿 Skill](https://github.com/Leowu9839/deconstruct-skill) | 批判思维 / 信息甄别 |
